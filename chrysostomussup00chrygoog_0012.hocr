@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chrysostomussup00chrygoog_0012.png"; bbox 0 0 3396 4996; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 612 2032 1372 2098">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 612 2032 1372 2098">
+     <span class='ocr_line' id='line_1_1' title="bbox 612 2032 1372 2098; baseline -0.004 -14"><span class='ocrx_word' id='word_1_1' title='bbox 612 2033 791 2098; x_wconf 84' lang='lat' dir='ltr'>Typendruck</span> <span class='ocrx_word' id='word_1_2' title='bbox 810 2049 863 2084; x_wconf 88' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_3' title='bbox 884 2033 920 2084; x_wconf 87' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_4' title='bbox 934 2032 1225 2097; x_wconf 82' lang='lat' dir='ltr'>DuMont-Schauberg</span> <span class='ocrx_word' id='word_1_5' title='bbox 1243 2033 1271 2083; x_wconf 91' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 1291 2033 1372 2082; x_wconf 78' lang='grc' dir='ltr'>Κὸῐη.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 582 2192 1399 2246">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 582 2192 1399 2246">
+     <span class='ocr_line' id='line_1_2' title="bbox 582 2192 1399 2246; baseline -0.004 -1"><span class='ocrx_word' id='word_1_7' title='bbox 582 2193 755 2245; x_wconf 84' lang='lat' dir='ltr'><strong>Aubeldruck</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 778 2210 833 2245; x_wconf 88' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_9' title='bbox 856 2194 886 2246; x_wconf 90' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_10' title='bbox 903 2193 933 2244; x_wconf 90' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_11' title='bbox 953 2194 1048 2243; x_wconf 84' lang='lat' dir='ltr'>Kaiser</span> <span class='ocrx_word' id='word_1_12' title='bbox 1069 2194 1097 2243; x_wconf 89' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_13' title='bbox 1117 2192 1399 2244; x_wconf 70' lang='lat' dir='ltr'>Kffln-Lindenhb&#39;he.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1702 4996">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1702 4996">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1702 4996; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1702 4996; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
